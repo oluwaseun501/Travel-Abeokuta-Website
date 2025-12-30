@@ -745,17 +745,17 @@ Banner Style
 }
 
 .main-banner .item-1 {
-  background-image: url(../css/images/olumo2.jpg);
+  background-image: url(olumo2.jpg);
 
  
 }
 
 .main-banner .item-2 {
-  background-image: url(../css/images/oopl.jpg);
+  background-image: url(oopl.jpg);
 }
 
 .main-banner .item-3 {
-  background-image: url(../css/images/adireabk.jpg);
+  background-image: url(adireabk.jpg);
 
 }
 
@@ -965,7 +965,7 @@ Video Style
 */
 
 .video {
-  background-image: url(../images/video-bg.jpg);
+  background-image: url(video-bg.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center center;
@@ -1229,7 +1229,7 @@ Contact Style
 */
 
 .contact {
-  background-image: url(../images/contact-bg.jpg);
+  background-image: url(contact-bg.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center center;
@@ -1382,7 +1382,7 @@ Page Header Style
 */
 
 .page-heading {
-  background-image: url(/templatemo_591_villa_agency/myImages/river.jpg);
+  background-image: url(river.jpg);
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
